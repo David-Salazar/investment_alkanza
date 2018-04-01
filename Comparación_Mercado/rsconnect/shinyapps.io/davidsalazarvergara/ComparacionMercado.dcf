@@ -1,0 +1,12 @@
+name: ComparacionMercado
+title: ComparacionMercado
+username:
+account: davidsalazarvergara
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 313049
+bundleId: 1296840
+url: https://davidsalazarvergara.shinyapps.io/ComparacionMercado/
+when: 1522601073.1294
+asMultiple: FALSE
+asStatic: FALSE
